@@ -15,7 +15,7 @@ Features;
 
 - A speaker will give audio feedback to the player when they are damaged. This could provide audio feedback such as game audio or audio clips from the player's attacks.
 
-I went with a small box design to make it easy to fit all the components I needed inside. I used the Xiao microcontroller we used in the course project for its size and flexibility.
+I chose a small box design to make it easy to fit all the components I needed inside. I used the Xiao microcontroller we used in the course project because of its size and flexibility. 
 
 ## Imported Parts
 
@@ -28,5 +28,6 @@ https://grabcad.com/library/joystick-module-3
 'Small 2715 speaker' by - Anton Mukhin
 https://grabcad.com/library/small-2715-speaker-1
 
+WOKWI: https://wokwi.com/projects/416462391336802305
 
 
